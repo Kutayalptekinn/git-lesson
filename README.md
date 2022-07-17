@@ -1,3 +1,1 @@
-# git-lesson 
-# cagatayalp
-# selamunaleykümbengaziosmanpaşaıismet
+
